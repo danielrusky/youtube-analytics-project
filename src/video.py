@@ -22,3 +22,4 @@ class PLVideo(Video):
     def __init__(self, video_id, pl_video):
         super().__init__(video_id)
         self.pl_video = pl_video
+#
